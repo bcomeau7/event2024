@@ -8767,6 +8767,19 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":8600,
+         "image":"tilesets\/rc3-mullana-floor-wall.png",
+         "imageheight":544,
+         "imagewidth":512,
+         "margin":0,
+         "name":"rc3 Walls",
+         "spacing":0,
+         "tilecount":272,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
