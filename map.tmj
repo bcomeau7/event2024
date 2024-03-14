@@ -4480,9 +4480,9 @@
                  "name":"hyena",
                  "properties":[
                         {
-                         "name":"startLayer",
-                         "type":"bool",
-                         "value":true
+                         "name":"start",
+                         "type":"string",
+                         "value":"hyena"
                         }],
                  "rotation":0,
                  "type":"area",
