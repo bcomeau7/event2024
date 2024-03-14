@@ -4401,12 +4401,12 @@
                 {
                  "height":504.687811689607,
                  "id":35,
-                 "name":"hyena",
+                 "name":"hyenajitsi",
                  "properties":[
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"hyena"
+                         "value":"hyenajitsi"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -4473,6 +4473,45 @@
                  "width":0,
                  "x":1454.26712590892,
                  "y":1607.34787600459
+                }, 
+                {
+                 "height":220.877748967637,
+                 "id":40,
+                 "name":"hyena",
+                 "properties":[
+                        {
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":282.339383462979,
+                 "x":1319.50446557188,
+                 "y":1797.75280898876
+                }, 
+                {
+                 "height":0,
+                 "id":41,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1466.43618553731,
+                 "y":1628.73331412657
+                }, 
+                {
+                 "height":0,
+                 "id":42,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1466.43618553731,
+                 "y":1628.73331412657
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -5352,7 +5391,7 @@
          "y":0
         }],
  "nextlayerid":163,
- "nextobjectid":40,
+ "nextobjectid":43,
  "orientation":"orthogonal",
  "properties":[
         {
